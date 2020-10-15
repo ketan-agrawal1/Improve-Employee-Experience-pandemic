@@ -1,1 +1,9 @@
-The approach to this problem is:
+During a pandemic, most of the companies ask employees to work from home. 
+One of the problems that employees face when working from home is that its not that easy to communicate with their colleages, mentors whenever they face any small problems 
+or errors in their codes. While in the office, it is very easy to approach others to show them the problem/error that is happening in our code/task. But when working remotely,
+its not that easy to just carry our laptops to their desks, we have to organize online meetings to discuss, or call them, without knowing if they are busy or not.
+
+We plan to design a software that would aid employees in interacting and asking their queries. Each employee, can make different types of queries, they can be when a new
+task is to be assigned to his/her subordinate, or he wants clarify a problem with his mentor, or he wants to have an immediate web-conference with one or more of his colleages.
+Whenever, an employee has a problem, he needs to record his screen and voice 
+to convey this query. 
