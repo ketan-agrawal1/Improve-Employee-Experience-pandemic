@@ -8,5 +8,5 @@ Group members:
 Rithvick Reddy Munagala - 17uec092,
 Ketan Agrawal - 17ucc030,
 Kopal Chakravarty - 17ucs080,
-Jayal Bansal -  - 17ucs075.
+Jayal Bansal - 17ucs075.
 
