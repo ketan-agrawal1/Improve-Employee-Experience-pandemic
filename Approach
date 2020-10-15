@@ -5,5 +5,13 @@ its not that easy to just carry our laptops to their desks, we have to organize 
 
 We plan to design a software that would aid employees in interacting and asking their queries. Each employee, can make different types of queries, they can be when a new
 task is to be assigned to his/her subordinate, or he wants clarify a problem with his mentor, or he wants to have an immediate web-conference with one or more of his colleages.
-Whenever, an employee has a problem, he needs to record his screen and voice 
-to convey this query. 
+Whenever, an employee has a problem, he needs to record his screen and voice to ask his mentor and he can send it to him with a tagline to give context, now his mentor will recieve a notification 
+of type "query from subordinate".
+Similarly, an employer can also ask his subordinates to do a sub-task by describing the problem by sending screen recording with voice, and the employees would get a different type of notification for that.
+If an employee wants to have a video conference immediately, then its notification would directly pop-up to the reciever(s) to accept the call.
+For the queries or task assignments sent as video messages, one can reply to them in text, another video message or video conference call.
+
+Now, each employee will have a focus assist mode, in which he can select which kind of notifications will pop-up. For eg, he can turn off queries from colleages/subordinates
+for some time when working on an important task or attending a meeting.
+
+We can add more features in the application, like an employee can turn on a notification that would remind him/her to stay hydrated after a particular amount of time.
